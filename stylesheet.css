@@ -1,0 +1,103 @@
+@charset "UTF-8";
+
+h1{
+    font-family: 'helvetica', serif;
+    font-weight: 900;
+    color: #C9E265;
+    font-size: 3.5em;
+    padding-top: .5em;
+}
+h2{
+    font-family: 'helvetica', serif;
+    font-weight:600;
+    color:black;
+    font-size: 1.5em;
+
+}
+h3{
+    font-family: 'helvetica', serif;
+    font-weight: 600;
+    color: black;
+    font-size: 1em;
+
+}
+h4{
+    font-family: 'helvetica', serif;
+    font-weight: 600;
+    font-size: .7em;
+    color: grey;
+
+}
+ h5{
+    font-family: 'helvetica', serif;
+    font-weight: 300;
+    font-size: 1em;
+    color: white;
+    
+
+ }
+
+ h6{
+    font-family: 'helvetica', serif;
+    font-weight: 500;
+    color: gray;
+
+ }
+
+
+p{
+    font-family: 'helvetica', serif;
+    font-weight: 400;
+    font-size: .95em;
+    font-style: normal;
+    color: black;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+video{
+    max-width: 100%;
+    height: auto;  
+}
+object{
+    align-items: center;
+  
+}
+.iframe{
+    max-width: 100%;
+    height: auto;
+}
+        
+.text-decoration-none{
+  color: #C9E265;
+}
+
+.btn-primary{
+    background-color: hsl(72, 68%, 64%);
+    color:white;
+    margin-top: 30px;
+    margin-right: 5px;
+    outline-color: #C9E265;
+    padding: 10px;
+    font-family:'helvetica', serif;
+  
+  }
+  .btn-primary:hover {
+    background-color: gray;
+    
+  }
+  .btn-primary:focus{
+    background-color: #C9E265;
+  }
+  a:link { 
+    text-decoration: none; 
+    color: #C9E265;
+  
+    }
+  a:hover, a:focus, a:active { 
+    color: #555753;
+    
+  }
